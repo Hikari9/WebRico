@@ -1,1 +1,1 @@
-.\Scripts\activate && cd Src
+.\scripts\activate && cd src
